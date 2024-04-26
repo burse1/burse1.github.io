@@ -1,0 +1,57 @@
+@media only screen and (max-width: 480px;){
+nav{
+	background-color:green;
+	width:360px;
+		
+}
+}
+h1{
+	
+}
+img{
+	margin-top:15px;
+	text-align:left;
+}
+nav{
+	width:auto;
+	background-image: linear-gradient(rgb(130,120,255), red);
+	height: 100px;
+	color:black;
+	border-radius:25px;
+	border-style: inset;
+	border-color:black;
+	text-align:center;
+}
+a:link{
+	color:black;
+	text-decoration: none;
+	font-size: 32px;
+	padding:10px;
+}
+
+body{
+	background-image: url("../../../../../Images/background.png");
+	background-repeat:none;
+}
+div{
+	font-size:32px;
+	margin-top:70px;
+	margin-left:10px;
+	margin-right:10px;
+	width:auto;
+	height: 700px;
+	background-color:blue;
+	
+}
+footer{
+	margin-top:15px;
+	margin-left:10px;
+	margin-right:10px;
+	width:auto;
+	height:80px;
+	background-color:white;
+	border-radius:7px;
+	border-style: inset;
+	border-color:black;
+	text-align:center;
+}
